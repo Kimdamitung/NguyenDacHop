@@ -37,10 +37,10 @@ mkdir build
 ```bash
 cd build
 ```
-bash
+
+```bash
+cmake .. -G "MinGW Makefiles" -DCURL_INCLUDE_DIR=C:/nguyenduytung/curl-8.13.0_4-win64a-mingw/include -DCURL_LIBRARY=C:/nguyenduytung/curl-8.13.0_4-win64a-mingw/lib/libcurl.dll.a
 ```
-```cmake .. -G "MinGW Makefiles" -DCURL_INCLUDE_DIR=C:/nguyenduytung/curl-8.13.0_4-win64a-mingw/include -DCURL_LIBRARY=C:/nguyenduytung/
-curl-8.13.0_4-win64a-mingw/lib/libcurl.dll.a
 
 ```bash
 mingw32-make
