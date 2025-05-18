@@ -24,7 +24,7 @@
 require 'redcarpet'
 markdown = Redcarpet.new("Có thể khi chạy nhưng lệnh dưới sẽ lỗi, do máy tính tao cài nhiều môi trường Command line interface cho nhiều thứ bruh nên đề phòng nếu lỗi sẽ tính tiếp, bậy giờ thì cài vậy")
 puts markdown.to_html
-``
+```
 
 
 # Cài Git bash
