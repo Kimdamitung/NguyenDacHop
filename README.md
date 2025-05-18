@@ -22,20 +22,36 @@
 
 # Thiết lập llama.cpp
 
-> https://github.com/ggml-org/llama.cpp.git
+```bash
+https://github.com/ggml-org/llama.cpp.git
+```
 
-> cd llama.cpp
+```bash
+cd llama.cpp
+```
 
-> mkdir build
+```bash
+mkdir build
+```
 
-> cd build
+```bash
+cd build
+```
+bash
+```
+```cmake .. -G "MinGW Makefiles" -DCURL_INCLUDE_DIR=C:/nguyenduytung/curl-8.13.0_4-win64a-mingw/include -DCURL_LIBRARY=C:/nguyenduytung/
+curl-8.13.0_4-win64a-mingw/lib/libcurl.dll.a
 
-> cmake .. -G "MinGW Makefiles" -DCURL_INCLUDE_DIR=C:/nguyenduytung/curl-8.13.0_4-win64a-mingw/include -DCURL_LIBRARY=C:/nguyenduytung/curl-8.13.0_4-win64a-mingw/lib/libcurl.dll.a
+```bash
+mingw32-make
+```
 
-> mingw32-make
+```bash
+cd bin
+```
 
-> cd bin
-
-> llama-server -hf ngxson/Vintern-1B-v3_5-GGUF --chat-template vicuna
+```bash
+llama-server -hf ngxson/Vintern-1B-v3_5-GGUF --chat-template vicuna
+```
 
 - Chờ nó chạy hiện ra url localhost r mở index.html rồi chèn url vào
