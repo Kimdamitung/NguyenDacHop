@@ -18,9 +18,7 @@
 
 > PATH môi trường lun nha
 
-> [!WARNING]
-
-#eb347a00[ Có thể khi chạy nhưng lệnh dưới sẽ lỗi, do máy tính tao cài nhiều môi trường Command line interface cho nhiều thứ bruh nên đề phòng nếu lỗi sẽ tính tiếp, bậy giờ thì cài vậy]
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Có thể khi chạy nhưng lệnh dưới sẽ lỗi, do máy tính tao cài nhiều môi trường Command line interface cho nhiều thứ bruh nên đề phòng nếu lỗi sẽ tính tiếp, bậy giờ thì cài vậy`
 
 # Cài Git bash
 
