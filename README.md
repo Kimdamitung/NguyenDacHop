@@ -18,7 +18,7 @@
 
 > PATH môi trường lun nha
 
-- <span style="color:red"> Có thể khi chạy nhưng lệnh dưới sẽ lỗi, do máy tính tao cài nhiều môi trường Command line interface cho nhiều thứ bruh nên đề phòng nếu lỗi sẽ tính tiếp, bậy giờ thì cài vậy </span>
+- <code style="color : red"> Có thể khi chạy nhưng lệnh dưới sẽ lỗi, do máy tính tao cài nhiều môi trường Command line interface cho nhiều thứ bruh nên đề phòng nếu lỗi sẽ tính tiếp, bậy giờ thì cài vậy </code>
 
 # Cài Git bash
 
